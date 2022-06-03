@@ -9,4 +9,4 @@ __pycache__
 _pycache_
 *.pkl
 *.ipynb_checkpoints
-.amazon-nlp
+amazon-nlp
